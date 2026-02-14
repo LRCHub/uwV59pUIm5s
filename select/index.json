@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "base_track": "炎",
+  "base_track": "炎 - homura",
   "base_artist": "LiSA",
-  "createdAt": "2025-12-22T06:15:38.186381Z",
+  "createdAt": "2026-02-14T15:57:48.818471Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -31,10 +31,10 @@
     {
       "id": "lrclib_4",
       "source": "lrclib",
-      "title": "炎 - From THE FIRST TAKE",
+      "title": "炎",
       "artist": "LiSA",
       "has_synced": true,
-      "path": "select/04_炎_-_From_THE_FIRST_TAKE_LiSA.lrc"
+      "path": "select/04_炎_LiSA.lrc"
     },
     {
       "id": "lrclib_5",
@@ -55,90 +55,90 @@
     {
       "id": "lrclib_7",
       "source": "lrclib",
-      "title": "炎",
+      "title": "炎 - homura",
       "artist": "LiSA",
-      "has_synced": true,
-      "path": "select/07_炎_LiSA.lrc"
+      "has_synced": false,
+      "path": "select/07_炎_-_homura_LiSA.txt"
     },
     {
       "id": "lrclib_8",
       "source": "lrclib",
-      "title": "LiSA 『炎』 -MUSiC CLiP-",
-      "artist": "LiSA",
+      "title": "炎",
+      "artist": "10-FEET",
       "has_synced": true,
-      "path": "select/08_LiSA_『炎』_-MUSiC_CLiP-_LiSA.lrc"
+      "path": "select/08_炎_10-FEET.lrc"
     },
     {
       "id": "lrclib_9",
       "source": "lrclib",
-      "title": "LiSA 『炎』 -MUSiC CLiP-",
-      "artist": "LiSA",
+      "title": "炎",
+      "artist": "西城秀樹",
       "has_synced": true,
-      "path": "select/09_LiSA_『炎』_-MUSiC_CLiP-_LiSA.lrc"
+      "path": "select/09_炎_西城秀樹.lrc"
     },
     {
       "id": "lrclib_10",
       "source": "lrclib",
-      "title": "炎 - homura",
-      "artist": "LiSA",
+      "title": "炎",
+      "artist": "19",
       "has_synced": false,
-      "path": "select/10_炎_-_homura_LiSA.txt"
+      "path": "select/10_炎_19.txt"
     },
     {
       "id": "lrclib_11",
       "source": "lrclib",
-      "title": "炎",
-      "artist": "10-FEET",
+      "title": "炎 - homura",
+      "artist": "LiSA",
       "has_synced": true,
-      "path": "select/11_炎_10-FEET.lrc"
+      "path": "select/11_炎_-_homura_LiSA.lrc"
     },
     {
       "id": "lrclib_12",
       "source": "lrclib",
-      "title": "炎",
-      "artist": "西城秀樹",
+      "title": "炎 - From THE FIRST TAKE - homura - From THE FIRST TAKE",
+      "artist": "LiSA",
       "has_synced": true,
-      "path": "select/12_炎_西城秀樹.lrc"
+      "path": "select/12_炎_-_From_THE_FIRST_TAKE_-_homura_-_From_THE_FIRST_TAKE_LiSA.lrc"
     },
     {
       "id": "lrclib_13",
       "source": "lrclib",
-      "title": "炎",
-      "artist": "19",
+      "title": "Homura _炎_",
+      "artist": "Shania Yan",
       "has_synced": false,
-      "path": "select/13_炎_19.txt"
+      "path": "select/13_Homura__炎_Shania_Yan.txt"
     },
     {
       "id": "lrclib_14",
       "source": "lrclib",
-      "title": "炎 - homura",
+      "title": "炎 (Homura)",
       "artist": "LiSA",
       "has_synced": true,
-      "path": "select/14_炎_-_homura_LiSA.lrc"
+      "path": "select/14_炎_(Homura)_LiSA.lrc"
     },
     {
       "id": "lrclib_15",
       "source": "lrclib",
-      "title": "炎 - From THE FIRST TAKE - homura - From THE FIRST TAKE",
+      "title": "炎 - From THE FIRST TAKE",
       "artist": "LiSA",
       "has_synced": true,
-      "path": "select/15_炎_-_From_THE_FIRST_TAKE_-_homura_-_From_THE_FIRST_TAKE_LiSA.lrc"
+      "path": "select/15_炎_-_From_THE_FIRST_TAKE_LiSA.lrc"
     },
     {
       "id": "lrclib_16",
       "source": "lrclib",
-      "title": "Homura _炎_",
-      "artist": "Shania Yan",
-      "has_synced": false,
-      "path": "select/16_Homura__炎_Shania_Yan.txt"
+      "title": "LiSA 『炎』 -MUSiC CLiP-",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/16_LiSA_『炎』_-MUSiC_CLiP-_LiSA.lrc"
     },
     {
       "id": "lrclib_17",
       "source": "lrclib",
-      "title": "炎 (Homura)",
+      "title": "LiSA 『炎』 -MUSiC CLiP-",
       "artist": "LiSA",
       "has_synced": true,
-      "path": "select/17_炎_(Homura)_LiSA.lrc"
+      "path": "select/17_LiSA_『炎』_-MUSiC_CLiP-_LiSA.lrc"
     },
     {
       "id": "petitlyrics_1",
